@@ -6,9 +6,6 @@ Highlights:
 - Create, Update, and Delete Notes with Title & Description
 - Deployed project demo : https://product-store-a9ge.onrender.com
 ---
-## 🧪 .env Setup
-
-### Backend (`/backend`)
 
 ## 🔧 Run the Backend
 
